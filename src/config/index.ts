@@ -1,5 +1,5 @@
 const Config = {
-  RTMP_URL: 'rtmp://192.168.5.248/live',
+  RTMP_URL: 'rtmp://rtmpserver.onrender.com/live',
 };
 
 export default Config;
